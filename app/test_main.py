@@ -1,3 +1,4 @@
 from app.main import get_human_age
 
-# write your code here
+def get_one_day_in_my_score() -> None:
+    
